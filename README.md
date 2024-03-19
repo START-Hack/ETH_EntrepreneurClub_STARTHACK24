@@ -42,9 +42,7 @@ Note: We are not looking for the best or the most optimistic numbers. We are loo
 <p align="center"> Sarper Melik Ertekin and Franz Gross are happy to answer your questions and you can find them in Entrepreneur Club Booth </p>
 
 
-## <p align="center"> Prize - the winning team members will each receive: </p>
+## <p align="center"> Prize - the winning team will receive: </p>
 
 - Participation in Boost Finale to pitch their projects to VCs, corporates, incubators/accelerators as well as researchers with a chance to win 25k incorporation money
 - Booth in Launch, the biggest startup confrence in Zurich, with a visitor count of over 2000 with them being, VCs, corporates, incubators/accelerators as well as startups
-
-### Prize Name
