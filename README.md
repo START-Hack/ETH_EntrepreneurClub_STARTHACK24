@@ -43,7 +43,7 @@ We are eager to witness the transformation of your hackathon ideas into potentia
 7. **Go-to-market Strategy (10%)** - Explain how you plan to introduce your project to the market.
 8. **Financial Projection (10%)** - Offer realistic financial forecasts for your project.
 
-Please note, our focus is on the accuracy and thoughtfulness of your projections and analyses, rather than optimistic figures. While the visual appeal of your slides is not our primary concern, some effort in slide design is appreciated. Our goal is to see that you have considered all relevant business aspects in developing your idea, aiming for feasible startup ventures rather than the most polished presentations.
+Please note, our focus is on the accuracy and thoughtfulness of your projections and analyses, rather than optimistic figures. While the visual appeal of your slides is not our primary concern, some effort in slide design is appreciated. Our goal is to see that you have considered all relevant business aspects in developing your idea, aiming for feasible startup ventures rather than the most polished presentations. Important, you will need at least 1 person from ETH in your team in the time of the Boost Finale to be eligible for the price money.
 
 ## <p align="center"> Point of Contact: </p>
 
