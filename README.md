@@ -11,8 +11,11 @@ Our request is straightforward. As participants already craft pitches for their 
 The pitch deck should evolve from the initial product pitch, enhanced by comprehensive market research, competitor analysis, financial projections, a development roadmap, and a go-to-market strategy. We invite you to invest an additional hour or two in refining your solution, contemplating deeply on its potential as a business. This involves crafting a detailed business plan for the project you've developed, thereby laying the groundwork for its transformation into a sustainable venture.
 
 ##  <p align="center"> Resources: </p>
+### More About Business Plan ###
 - [Writing a Business Plan](https://www.forbes.com/advisor/business/how-to-write-a-business-plan/)
 - [More About Business Plans (Swiss Resources)](https://www.kmu.admin.ch/kmu/en/home/concrete-know-how/setting-up-sme/starting-business/first-step/well-planned-start-up/business-plan.html)
+  
+### Usefull Resources for Your Pitch  ###
 - [Creating a Roadmap for Your Project](https://kissflow.com/project/project-roadmap/)
 - [Creating a Roadmap for Your Startup](https://yojji.io/blog/roadmap-startup-guide-examples)
 - [Creating your Business model](https://www.aha.io/roadmapping/guide/product-strategy/what-are-some-examples-of-a-business-model)
@@ -23,6 +26,8 @@ The pitch deck should evolve from the initial product pitch, enhanced by compreh
 - [Financial Forecast Detailed](https://www.indeed.com/career-advice/career-development/financial-projection-startup)
 - [Financial Forecast Simplified](https://www.uschamber.com/co/run/finance/financial-forecast-for-business-plan)
 - [Different Types of Funding for Startups](https://www.startups.com/library/expert-advice/5-types-startup-funding)
+
+### Examples for a Good Pitchdeck ###
 - [15 Examples of a good startup pitchdeck](https://pitch.com/blog/15-great-pitch-decks-from-successful-startups)
 
 ## <p align="center"> Judging Criteria: </p>
