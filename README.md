@@ -42,10 +42,11 @@ Please note, our focus is on the accuracy and thoughtfulness of your projections
 
 ## <p align="center"> Point of Contact: </p>
 
-<p align="center"> Sarper Melik Ertekin and Franz Gross are happy to answer your questions and you can find them in Entrepreneur Club Booth </p>
+Sarper Melik Ertekin and Franz Gross are happy to answer your questions and you can find them in Entrepreneur Club Booth
 
 
 ## <p align="center"> Prize - the winning team will receive: </p>
 
-- Participation in Boost Finale to pitch their projects to VCs, corporates, incubators/accelerators as well as researchers with a chance to win 25k incorporation money
-- Booth in Launch, the biggest startup confrence in Zurich, with a visitor count of over 2000 with them being, VCs, corporates, incubators/accelerators as well as startups
+- Participation in [Boost Finale](https://www.entrepreneur-club.org/events/boost) to pitch your project to VCs, corporates, incubators/accelerators as well as researchers with a chance to win **25k incorporation money**
+- Booth in [Launch](https://www.launch-startup.ch/), the biggest startup confrence in Zurich, with a **visitor count of over 2000** with them being, VCs, corporates, incubators/accelerators as well as startups
+- Mentorship for your project for the Pitching Competition
